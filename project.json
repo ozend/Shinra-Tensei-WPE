@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "This world shall know pain",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "Shinra Tensei",
+	"type" : "scene",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "2679500094",
+	"workshopurl" : "steam://url/CommunityFilePage/2679500094"
+}

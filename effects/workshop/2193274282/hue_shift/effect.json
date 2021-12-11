@@ -1,0 +1,19 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/2193274282/effects/hue_shift.json",
+		"shaders/workshop/2193274282/effects/hue_shift.frag",
+		"shaders/workshop/2193274282/effects/hue_shift.vert"
+	],
+	"editable" : false,
+	"group" : "localeffects",
+	"name" : "Hue Shift",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/2193274282/effects/hue_shift.json"
+		}
+	],
+	"replacementkey" : "hue_shift",
+	"version" : 1
+}
